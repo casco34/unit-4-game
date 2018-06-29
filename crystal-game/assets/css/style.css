@@ -1,0 +1,25 @@
+body{
+  background-color: blueviolet
+}
+
+
+.jumbotron{
+    background-color: aqua;
+    background-size: cover;
+    
+  }
+  
+.jumbotron h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #000;
+    text-shadow: 3px 3px #fff;
+  
+  }
+  
+.container-fluid{
+    text-align: center; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: blanchedalmond;
+
+ }
+  
